@@ -17,7 +17,7 @@ module.exports = {
     },
     {
       label: 'Blogs',
-      path: 'https://www.kukasalesgroup.com'
+      path: '/'
     }
   ],
   author: {
@@ -25,21 +25,12 @@ module.exports = {
     photo: '/photo.png',
     bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
-      email: '',
+      email: 'sales@kukasales.com',
       facebook: 'official.kukasales',
-      telegram: '#',
       twitter: '#',
-      github: '#',
-      rss: '',
-      vkontakte: '',
-      linkedin: '#',
+      linkedin: 'company/kuka-sales-group',
       instagram: '#',
-      line: '',
-      gitlab: '',
-      weibo: '',
-      codepen: '',
       youtube: '',
-      soundcloud: '',
     }
   }
 };
