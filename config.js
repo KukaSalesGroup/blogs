@@ -12,16 +12,12 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
-      path: '/'
+      label: 'Home',
+      path: 'https://kukasales.com'
     },
     {
-      label: 'About me',
-      path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
+      label: 'Blogs',
+      path: 'https://www.kukasalesgroup.com'
     }
   ],
   author: {
@@ -30,7 +26,7 @@ module.exports = {
     bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
       email: '',
-      facebook: '#',
+      facebook: 'official.kukasales',
       telegram: '#',
       twitter: '#',
       github: '#',
