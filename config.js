@@ -30,7 +30,7 @@ module.exports = {
       twitter: '#',
       linkedin: 'company/kuka-sales-group',
       instagram: '#',
-      youtube: '',
+      youtube: '#',
     }
   }
 };
