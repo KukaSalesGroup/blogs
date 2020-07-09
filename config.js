@@ -27,9 +27,9 @@ module.exports = {
     contacts: {
       email: 'sales@kukasales.com',
       facebook: 'official.kukasales',
-      twitter: '#',
+      twitter: 'kukasalesgroup',
       linkedin: 'company/kuka-sales-group',
-      instagram: '#',
+      instagram: 'kukasalesgroup',
       youtube: '#',
     }
   }
