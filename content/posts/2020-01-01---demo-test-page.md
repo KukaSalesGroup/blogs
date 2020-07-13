@@ -9,7 +9,7 @@ tags:                             # Related words to the topic
   - "How to"
   - "Creating a blog post"
 description: "Content written here will describe the article and will be the text displayed on the blogs homepage"
-socialImage: "/media/image-2.jpg" # Link images used in the article (located in: static/media)
+socialImage: "/media/image-2.jpg" # Image used when this link is shared?
 ---
 
 - [Fonts](#fonts)
@@ -28,7 +28,8 @@ socialImage: "/media/image-2.jpg" # Link images used in the article (located in:
 #### Small Title
 ###### Smallest Title
 
-<b>Bold Text</b>
+
+**Bold Text** in a paragraph with no style 
 
 *Using Italics* 
 
@@ -40,7 +41,15 @@ Starting a new line with two number symbols (#) creates a subtitle for a paragra
 Here is the location you will paste articles that have been previously written. If you would like arrange an image on the page follow the format below. 
 
 ## Display Image
-![Text here is adiscription of the image being linked. The image linked must also be linked in the socialImage section](/media/image-2.jpg)
+### Method: One
+![Text here is to discription of the image being linked.](/media/image-2.jpg)
+
+### Method: Two
+
+<figure class="float-right" style="width: 240px">
+	<img src="/media/gutenberg.jpg" alt="Gutenberg">
+	<figcaption>Johannes Gutenberg</figcaption>
+</figure>
 
 ## Quotes
 ### Method: 1
