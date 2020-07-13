@@ -24,11 +24,11 @@ In our experience, the large majority of the time that an air meter leaks it is 
 - Remove the check valve located at the end of the pump
 - Use your lips to move air through the check valve in both directions
 
-If the valve is working correctly, air should only move in one direction. If air is either not moving through the valve, or is moving freely in both directions, it most likely means that some concrete has become lodged in the valve, either sealing it closed or open. 
+If the valve is working correctly, **air should only move in one direction.** If air is either not moving through the valve, or is moving freely in both directions, it most likely means that some concrete has become lodged in the valve, either sealing it closed or open. 
 
 - Take the valve and submerge it in a small amount of isopropyl alcohol or vinegar
 - Swish it around for a minute or two
 - Check the airway again
 - Repeat this process 3 - 5 times
 
-If the steps above have been followed and the valve is still operating incorrectly, it's time for a new valve. There is often no need to replace the entire pump which is significantly more expencive than checking the valve, which is a fraction of the cost.
+If the steps above have been followed and the valve is still operating incorrectly, it's time for a new valve. There is often no need to replace the entire pump which is significantly more expencive than checking the valve for a fraction of the cost.

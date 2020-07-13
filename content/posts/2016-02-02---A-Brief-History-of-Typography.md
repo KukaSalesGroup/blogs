@@ -1,54 +1,28 @@
 ---
-title: "A Brief History of Typography"
-date: "2016-02-02T22:40:32.169Z"
+title: "Curing Cylinders: Recording Minimum and Maximum Temperatures"
+date: "2020-02-02"
 template: "post"
-draft: false
+draft: true # Page will only display when set to false
 slug: "a-brief-history-of-typography"
-category: "Design Inspiration"
+category: "Curing Cylinders"
 tags:
-  - "Linotype"
-  - "Monotype"
+  - "Maximum Temperatures"
+  - "Minimum Temperatures"
   - "History of typography"
-  - "Helvetica"
-description: "Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat."
+description: "Checking and Recording Minimum and Maximum Temperatures of Curing Cylinders"
 socialImage: "/media/image-0.jpg"
 ---
 
-**Pellentesque habitant morbi tristique** senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. *Aenean ultricies mi vitae est.* Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. 
+Field technicians are notoriously bad at regularly recording minimum and maximum temperatures of their cylinders while they are curing in the field. I think a large amount of this is not the technicians fault, but rather the fault of the equipment.
 
-Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.  [Donec non enim](#) in turpis pulvinar facilisis.
+For a very long time that standard equipment used for this purpose was the mercury “U-Tube” thermometers. I know you all know what I am talking about, the plastic cased tube where the mercury always separated out in shipment so you had to shake it all down to the correct level.  Half of them become so separated in shipment that they are unusable and have to be sent back to the factory. Frankly, they are hard to even get anymore because of laws in different states prohibiting the shipment of mercury, and I believe this is a trend that will continue to spread. If you live in a state that allows the shipment of mercury, enjoy it now, because I don’t think it will last very long. 
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-0.jpg)
+Digital min/max thermometers were always available, but always seemed to be too expensive. Luckily for us, technology has advanced, and made these digital min/max thermometers not only more affordable, but easier to use. 
 
-## Header Level 2
+ The batteries last longer, and now there are some on the market that use simple AAA batteries, so it is easy to keep them operational. With this advancement, it should be important to equip all field technicians with proper equipment and make it easier to record this required piece of information.
 
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-+ Aliquam tincidunt mauris eu risus.
+ As far as recording the minimum and maximum temperatures, this is the next problem. What good is it to have the equipment necessary to learn this information if it is not recorded immediately? It is important to have a solid system in place to record these temperatures. If you would like it recorded on your data sheet where the other field tests are recorded, you have to make sure whoever goes and picks up the cylinders has that sheet.
 
-Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. 
+One solution that appears to me is to require on that sheet that the pick up technician records the time and location where they picked up the cylinders, as well as who they are. This way they will have to bring that sheet with them, so that they get credit for the time to go pick it up.
 
-<figure>
-	<blockquote>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.</p>
-		<footer>
-			<cite>— Aliquam tincidunt mauris eu risus.</cite>
-		</footer>
-	</blockquote>
-</figure>
-
-### Header Level 3
-
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-+ Aliquam tincidunt mauris eu risus.
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.
-
-```css
-#header h1 a {
-  display: block;
-  width: 300px;
-  height: 80px;
-}
-```
-
-Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+Another solution could be on the cylinder log in sheet in the lab. When someone picks up cylinders and brings them to the lab, they have to log in the cylinder, and at this point require the minimum and maximum temperatures be recorded.

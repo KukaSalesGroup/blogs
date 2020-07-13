@@ -2,14 +2,15 @@
 title: "Lab Safety: Breaking Cylinders"
 date: "2020-06-19"
 template: "post"
-draft: true # Page will onlt display when set to false
+draft: true # Page will only display when set to false
 slug: "lab-safety-breaking-cylinders"
-category: "Safety"
+category: "Curing Cylinders"
 tags:
   - "Break Machines"
   - "Breaking Cylinders"
   - "Lab Safety"
-  - "Safty Glasses"
+  - "Safety"
+  - "Glasses"
 description: "Three simple steps to ensure maximum safty when breaking cylinders."
 ---
 
