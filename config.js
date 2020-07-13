@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://kukasales-blog.netlify.app/',
   pathPrefix: '/',
   title: 'Blog by Kuka Sales',
   subtitle: 'Kuka Sales Group specializes in meeting all your materials testing needs',
