@@ -5,7 +5,7 @@ module.exports = {
   pathPrefix: '/',
   title: 'Blog by Kuka Sales',
   subtitle: 'Kuka Sales Group specializes in meeting all your materials testing needs',
-  copyright: '© All rights reserved.',
+  copyright: 'Kuka Sales Group prices are subject to change. Verify at time of order. © All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
