@@ -16,9 +16,13 @@ module.exports = {
       path: 'https://kukasales.com'
     },
     {
+      label: 'Products',
+      path: 'https://www.kukasalesgroup.com'
+    },
+    {
       label: 'Blogs',
-      path: '/'
-    }
+      path: 'https://blogs.kukasalesgroup.com'
+    }    
   ],
   author: {
     name: 'Kuka Sales',
