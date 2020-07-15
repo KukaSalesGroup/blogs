@@ -2,7 +2,7 @@
 title: "Troubleshoot Leaky Air Meter"
 date: "2020-08-18"
 template: "post"
-draft: true # Page will only display when set to false
+draft: false
 slug: "troubleshoot-leaky-air-meter"
 category: "Air Meter"
 tags:

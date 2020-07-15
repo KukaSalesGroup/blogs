@@ -25,7 +25,7 @@ module.exports = {
     },
     {
       label: 'About Kuka Sales',
-      path: '/pages\about'
+      path: '/pages/about'
     }       
   ],
   author: {
