@@ -22,7 +22,11 @@ module.exports = {
     {
       label: 'Blogs',
       path: 'https://blogs.kukasalesgroup.com'
-    }    
+    },
+    {
+      label: 'About Kuka Sales',
+      path: '/pages\about'
+    }       
   ],
   author: {
     name: 'Kuka Sales',

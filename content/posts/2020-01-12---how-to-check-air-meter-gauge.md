@@ -2,7 +2,7 @@
 title: How to Check Air Meter Gauge
 date: "2020-12-01"
 template: "post"
-draft: true
+draft: false
 slug: "how-to-check-air-meter-gauge"
 category: "Air Meter"
 tags:

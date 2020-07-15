@@ -2,7 +2,7 @@
 title: Demo Test Page             # Title for the article
 date: "2020-01-01"                # Date article is written
 template: "post"                  # Template used when creating page (located in: src/templates)
-draft: false                      # Determines weather the article will be displayed
+draft: true                       # Determines weather the article will be displayed
 slug: "demo-test-page"            # URL used for each post (the name here must be reflected title of the file)
 category: "Demos"                 # Categories related to article
 tags:                             # Related words to the topic

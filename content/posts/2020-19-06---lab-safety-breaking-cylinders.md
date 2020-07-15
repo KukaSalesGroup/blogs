@@ -2,7 +2,7 @@
 title: "Lab Safety: Breaking Cylinders"
 date: "2020-06-19"
 template: "post"
-draft: true # Page will only display when set to false
+draft: false
 slug: "lab-safety-breaking-cylinders"
 category: "Curing Cylinders"
 tags:

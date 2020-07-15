@@ -2,7 +2,7 @@
 title: "Curing Cylinders: Recording Minimum and Maximum Temperatures"
 date: "2020-02-02"
 template: "post"
-draft: true # Page will only display when set to false
+draft: false
 slug: "curing-cylinders-min-max"
 category: "Curing Cylinders"
 tags:
