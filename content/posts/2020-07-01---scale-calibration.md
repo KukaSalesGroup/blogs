@@ -1,14 +1,14 @@
 ---
-title: "Lab Edition: Cleanliness"
+title: "Scale Calibration"
 date: "2020-07-01"
 template: "post"
 draft: true
-slug: "2020-01-01---lab-edition-cleanliness"
-category: "Lab Edition"
+slug: "scale-calibration"
+category: "Scale"
 tags:
-  - "Cleanliness"
-  - "Field Edition"
-description: "Today we discuss the common proverb and its relation to your safety in the field."
+  - "Calibration"
+  - "Maintannce"
+description: ""
 socialImage: "/media/image-3.jpg"
 ---
 

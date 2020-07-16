@@ -1,15 +1,37 @@
 ---
-title: Demo Test Page             # Title for the article
-date: "2020-01-01"                # Date article is written # Format: YEAR-DAY-MONTH
-template: "post"                  # Template used when creating page (located in: src/templates)
-draft: true                       # Determines weather the article will be displayed
-slug: "demo-test-page"            # URL used for each post (the name here must be reflected title of the file)
-category: "Demos"                 # Categories related to article
-tags:                             # Related words to the topic
-  - "How to"
-  - "Creating a blog post"
-description: "Content written here will describe the article and will be the text displayed on the blogs homepage"
-socialImage: "/media/image-2.jpg" # Image used when this link is shared?
+title: Demo Test Page             					# Title for the article 
+								  					# Aim to use the 'category' name and 'tags' in title 
+													# Keep it organic; don't overdo it
+													  
+date: "2020-01-01"                					# Date article is written 
+													# Format: YYYY-DD-MM
+													  
+template: "post"                  					# Template used when creating page 
+													# Located in: src/templates # Should remain: 'post'
+													  
+draft: true                       					# Determines weather the article will be displayed
+													# Setting to 'true' means the page is a draft and will NOT be shown
+													  
+slug: "demo-test"	            					# URL used for each post 
+								  					# Should match title or be an abriviated version
+								  					# Name must be reflected in file name 
+													# Should contain 'category' name and 'tags'
+													  
+category: "Demo"                 					# Only 1 category for each blog
+													# Category carries most weight
+													# Should be less than 5 words 
+													# Aim to use the singular form of the word here (if you use 'demos' here and 'demo' in the title points can be lost)
+								  					# Must relate to article 
+								  					# Use category names that will apply to multiple blogs 
+													# This immidiately affects SEO & Google Analytics (down the road)
+													  
+tags:                             					# Related word or words to the topic 
+  - "How to"					  					# Tags carry less weight than category but still important
+  - "Air Meter"					 				 	# Tags can even be product names or a subcategory 
+													# This immidiately affects SEO & Google Analytics (down the road)  
+
+description: "Content shows on the blogs homepage"  # The category name and tag names should be used here
+socialImage: "/media/image-2.jpg"					# Image used when this link is shared?
 ---
 
 - [Fonts](#fonts)

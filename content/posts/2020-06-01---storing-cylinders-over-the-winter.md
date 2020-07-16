@@ -1,14 +1,14 @@
 ---
-title: "Lab Edition: Cleanliness"
+title: "Storing Cylinders Over the Winter"
 date: "2020-06-01"
 template: "post"
 draft: true
-slug: "2020-01-01---lab-edition-cleanliness"
-category: "Lab Edition"
+slug: "storing-cylinders-over-the-winter"
+category: "Cylinder"
 tags:
-  - "Cleanliness"
-  - "Field Edition"
-description: "Today we discuss the common proverb and its relation to your safety in the field."
+  - "Storing Cyliners"
+  - "Winter"
+description: ""
 socialImage: "/media/image-3.jpg"
 ---
 

@@ -1,14 +1,14 @@
 ---
-title: "Lab Edition: Cleanliness"
+title: "Keep Concrete Out of Air Meter Pump"
 date: "2020-09-01"
 template: "post"
 draft: true
-slug: "2020-01-01---lab-edition-cleanliness"
-category: "Lab Edition"
+slug: "keep-concrete-out-of-air-meter-pump"
+category: "Air Meter"
 tags:
-  - "Cleanliness"
+  - "Maintnance"
   - "Field Edition"
-description: "Today we discuss the common proverb and its relation to your safety in the field."
+description: ""
 socialImage: "/media/image-3.jpg"
 ---
 

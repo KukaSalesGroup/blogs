@@ -1,14 +1,14 @@
 ---
-title: "Lab Edition: Cleanliness"
+title: "Cylinder Mold Availability"
 date: "2020-10-01"
 template: "post"
 draft: true
-slug: "2020-01-01---lab-edition-cleanliness"
-category: "Lab Edition"
+slug: "cylinder-mold-availability"
+category: "Cylinder"
 tags:
-  - "Cleanliness"
-  - "Field Edition"
-description: "Today we discuss the common proverb and its relation to your safety in the field."
+  - ""
+  - ""
+description: ""
 socialImage: "/media/image-3.jpg"
 ---
 

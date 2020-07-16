@@ -3,7 +3,7 @@ title: "Lab Edition: Cleanliness"
 date: "2020-08-01"
 template: "post"
 draft: true
-slug: "2020-01-01---lab-edition-cleanliness"
+slug: "lab-edition-cleanliness"
 category: "Lab Edition"
 tags:
   - "Cleanliness"
