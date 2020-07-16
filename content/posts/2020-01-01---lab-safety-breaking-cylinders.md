@@ -1,6 +1,6 @@
 ---
 title: "Lab Safety: Breaking Cylinders"
-date: "2020-06-19"
+date: "2020-01-01"
 template: "post"
 draft: false
 slug: "lab-safety-breaking-cylinders"

@@ -1,6 +1,6 @@
 ---
 title: "Curing Cylinders: Recording Minimum and Maximum Temperatures"
-date: "2020-02-02"
+date: "2020-03-01"
 template: "post"
 draft: false
 slug: "curing-cylinders-min-max"

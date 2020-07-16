@@ -1,6 +1,6 @@
 ---
 title: "Field Edition: Cleanliness is Next to Godliness"
-date: "2020-12-01"
+date: "2020-05-01"
 template: "post"
 draft: true
 slug: "cleanliness-is-next-to-godliness-field-edition"

@@ -1,6 +1,6 @@
 ---
 title: "Lab Edition: Cleanliness"
-date: "2020-12-01"
+date: "2020-06-01"
 template: "post"
 draft: true
 slug: "2020-01-01---lab-edition-cleanliness"
