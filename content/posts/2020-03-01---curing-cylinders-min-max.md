@@ -6,9 +6,10 @@ draft: false
 slug: "curing-cylinders-min-max"
 category: "Curing Cylinders"
 tags:
-  - "Maximum Temperatures"
-  - "Minimum Temperatures"
-  - "History of typography"
+  - "Temperature"
+  - "Maximum"
+  - "Minimum"
+  - "U-Tube"
 description: "For a very long time that standard equipment used mercury “U-Tube” thermometers. I know you all know what I am talking about, the plastic cased tube where the mercury always separated out in shipment so you had to shake it all down to the correct level..."
 socialImage: "/media/image-0.jpg"
 ---

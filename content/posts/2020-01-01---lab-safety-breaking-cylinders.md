@@ -6,8 +6,7 @@ draft: false
 slug: "lab-safety-breaking-cylinders"
 category: "Curing Cylinders"
 tags:
-  - "Break Machines"
-  - "Breaking Cylinders"
+  - "Break"
   - "Lab Safety"
   - "Safety"
   - "Glasses"

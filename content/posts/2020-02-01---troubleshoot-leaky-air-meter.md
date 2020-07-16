@@ -7,8 +7,6 @@ slug: "troubleshoot-leaky-air-meter"
 category: "Air Meter"
 tags:
   - "Troubleshoot"
-  - "Air Meter"
-  - "Air Leak"
   - "Leak"
 description: "How to troubleshoot a leaky air meter and the steps to take before replacing the entire pump."
 socialImage: "/media/gutenberg.jpg"

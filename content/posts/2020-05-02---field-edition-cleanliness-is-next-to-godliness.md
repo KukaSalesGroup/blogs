@@ -2,12 +2,11 @@
 title: "Field Edition: Cleanliness is Next to Godliness"
 date: "2020-05-01"
 template: "post"
-draft: true
-slug: "cleanliness-is-next-to-godliness-field-edition"
+draft: false
+slug: "field-edition-cleanliness-is-next-to-godliness"
 category: "Field Edition"
 tags:
   - "Cleanliness"
-  - "Field Edition"
 description: "Today we discuss the common proverb and its relation to your safety in the field."
 socialImage: "/media/image-3.jpg"
 ---

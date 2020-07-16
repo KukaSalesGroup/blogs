@@ -23,12 +23,13 @@ category: "Demo"                 					# Only 1 category for each blog
 													# Aim to use the singular form of the word here (if you use 'demos' here and 'demo' in the title points can be lost)
 								  					# Must relate to article 
 								  					# Use category names that will apply to multiple blogs 
-													# This immidiately affects SEO & Google Analytics (down the road)
+													# Category immidiately affects SEO & Google Analytics (down the road)
 													  
 tags:                             					# Related word or words to the topic 
   - "How to"					  					# Tags carry less weight than category but still important
   - "Air Meter"					 				 	# Tags can even be product names or a subcategory 
-													# This immidiately affects SEO & Google Analytics (down the road)  
+													# NEVER use the same word or phrase as both a 'tag' and a 'category'
+													# Tags immidiately affects SEO & Google Analytics (down the road)
 
 description: "Content shows on the blogs homepage"  # The category name and tag names should be used here
 socialImage: "/media/image-2.jpg"					# Image used when this link is shared?

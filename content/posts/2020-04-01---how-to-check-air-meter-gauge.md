@@ -6,10 +6,8 @@ draft: false
 slug: "how-to-check-air-meter-gauge"
 category: "Air Meter"
 tags:
-  - "Air Meter"
   - "How to"
   - "clamp assemblies"
-  - "air meter base"
 description: "Today we discus how to check an air meter gauge."
 socialImage: "/media/image-3.jpg"
 ---
