@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://kukasales-blog.netlify.app/',
   pathPrefix: '/',
-  title: 'Blog by Kuka Sales',
+  title: 'Products by Kuka Sales',
   subtitle: 'When it comes to testing, if we don’t have it, and we can’t find it, then you don’t need it.',
   copyright: 'Kuka Sales Group prices are subject to change. Verify at time of order. © All rights reserved.',
   disqusShortname: '',
@@ -12,7 +12,7 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Home',
+      label: 'Home test test',
       path: 'https://kukasales.com'
     },
     {
