@@ -12,7 +12,7 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Home test test test',
+      label: 'Home',
       path: 'https://kukasales.com'
     },
     {
